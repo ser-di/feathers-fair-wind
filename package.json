@@ -50,7 +50,7 @@
     "feathers-hooks": "^1.7.1",
     "feathers-memory": "^1.0.1",
     "feathers-tests-fake-app-users": "^1.0.0",
-    "istanbul": "1.1.0-alpha.1",
+    "istanbul": "0.4.5",
     "mocha": "^3.1.2",
     "mocha-lcov-reporter": "^1.2.0",
     "nsp": "^2.6.2",
